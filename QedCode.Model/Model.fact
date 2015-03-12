@@ -1,0 +1,6 @@
+namespace QedCode.Model;
+
+fact Individual {
+key:
+    string anonymousId;
+}
